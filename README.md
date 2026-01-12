@@ -18,10 +18,17 @@ An AI-powered chatbot that answers **IPC questions** using **Retrieval-Augmented
 ## 🛠️ Installation
 
 ### 1. Extract Project Files
+
+This archive contains the complete project structure including:
+- `document/` - Project documentation and README files
+- `ipc_index/` - IPC code indexing and reference data
+- `sample/` - Sample queries and test data
+- `templates/` - HTML/CSS templates for the frontend UI
+- `app.py` - Main Flask application backend
+- `front.py` - Frontend interface module
 ```
-bashunzip Medical-Chatbot-RAG.zip
-cd Medical-Chatbot-RAG
-```
+unzip ipc_project.zip
+cd ipc_project```
 
 ### 2. Create Virtual Environment
 ```bash
