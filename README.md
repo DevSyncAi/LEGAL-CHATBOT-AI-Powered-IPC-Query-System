@@ -2,7 +2,7 @@
 
 
 
-An AI-powered chatbot that answers **medical questions** using **Retrieval-Augmented Generation (RAG)** with **LangChain**, **FAISS semantic search**, and integrates with both **LM Studio (local)** and **OpenAI (cloud)**. It retrieves information from trusted medical sources like **WHO, NHS, CDC, MedlinePlus, and Mayo Clinic** to provide reliable and context-aware responses.
+An AI-powered chatbot that answers **IPC questions** using **Retrieval-Augmented Generation (RAG)** with **LangChain**, **FAISS semantic search**, and integrates with both **LM Studio (local)** and **OpenAI (cloud)**. It retrieves information from trusted medical sources like **WHO, NHS, CDC, MedlinePlus, and Mayo Clinic** to provide reliable and context-aware responses.
 
 
 ---
