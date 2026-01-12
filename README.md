@@ -27,8 +27,25 @@ This archive contains the complete project structure including:
 - `app.py` - Main Flask application backend
 - `front.py` - Frontend interface module
 ```
+**For Linux/Mac (using Terminal/Bash):**
+
+```bash
 unzip ipc_project.zip
 cd ipc_project```
+```
+
+**For Windows (using Command Prompt or PowerShell):**
+
+```bat
+powershell -Command "Expand-Archive -Path ipc_project.zip -DestinationPath ."
+cd ipc_project
+```
+
+Or manually using File Explorer:
+1. Right-click on `ipc_project.zip`
+2. Select "Extract All..."
+3. Choose the extraction location
+4. Open Command Prompt in the extracted `ipc_project` folder
 
 ### 2. Create Virtual Environment
 ```bash
